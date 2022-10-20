@@ -18,7 +18,6 @@ gem "just-the-docs"
 # gem "github-pages", group: :jekyll_plugins
 gem "github-pages", "227", group: :jekyll_plugins
 gem "webrick"
-# remote_theme: just-the-docs/just-the-docs
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
