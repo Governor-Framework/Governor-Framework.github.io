@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: ERC20
+permalink: /erc20/
+nav_order: 1
+parent: Applications
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
