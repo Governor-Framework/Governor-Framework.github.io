@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gitcoin
-permalink: /gitcoin/
+title: ENS
+permalink: /ens/
 nav_order: 1
 parent: Case Studies
 ---
