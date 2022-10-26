@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Applications
-permalink: /usecase/
-nav_order: 2
-has_children: true
+title: Nouns
+permalink: /nouns/
+nav_order: 1
+parent: Ecosystem
+
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
